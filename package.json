@@ -1,0 +1,35 @@
+{
+  "name": "@telemetry-js/publisher-appoptics",
+  "version": "0.4.1",
+  "description": "Publish single or summary metrics to AppOptics",
+  "license": "MIT",
+  "author": "Vincent Weevers",
+  "scripts": {
+    "test": "standard && hallmark && tape test/*.js"
+  },
+  "files": [
+    "index.js",
+    "lib"
+  ],
+  "dependencies": {
+    "@telemetry-js/metric": "^0.1.2",
+    "simple-concat": "^1.0.0"
+  },
+  "devDependencies": {
+    "hallmark": "^3.1.0",
+    "nock": "^11.8.2",
+    "standard": "^14.3.4",
+    "tape": "^4.9.1"
+  },
+  "repository": "telemetry-js/publisher-appoptics",
+  "bugs": "https://github.com/telemetry-js/publisher-appoptics/issues",
+  "homepage": "https://github.com/telemetry-js/publisher-appoptics",
+  "keywords": [
+    "metrics",
+    "measurements",
+    "telemetry"
+  ],
+  "engines": {
+    "node": ">=6"
+  }
+}
