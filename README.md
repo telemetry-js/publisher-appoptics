@@ -3,7 +3,7 @@
 > **Publish single or summary metrics to AppOptics.**  
 > A [`telemetry`](https://github.com/telemetry-js/telemetry) plugin.
 
-[![npm status](http://img.shields.io/npm/v/telemetry-js/publisher-appoptics.svg)](https://www.npmjs.org/package/@telemetry-js/publisher-appoptics)
+[![npm status](http://img.shields.io/npm/v/@telemetry-js/publisher-appoptics.svg)](https://www.npmjs.org/package/@telemetry-js/publisher-appoptics)
 [![node](https://img.shields.io/node/v/@telemetry-js/publisher-appoptics.svg)](https://www.npmjs.org/package/@telemetry-js/publisher-appoptics)
 [![Test](https://github.com/telemetry-js/publisher-appoptics/workflows/Test/badge.svg?branch=main)](https://github.com/telemetry-js/publisher-appoptics/actions)
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
@@ -67,7 +67,7 @@ npm install @telemetry-js/publisher-appoptics
 
 ## Acknowledgements
 
-This project is kindly sponsored by [Reason Cybersecurity Inc](https://reasonsecurity.com).
+This project is kindly sponsored by [Reason Cybersecurity Ltd](https://reasonsecurity.com).
 
 [![reason logo](https://cdn.reasonsecurity.com/github-assets/reason_signature_logo.png)](https://reasonsecurity.com)
 
